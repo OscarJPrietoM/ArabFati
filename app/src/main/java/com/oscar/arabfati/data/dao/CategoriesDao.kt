@@ -1,8 +1,7 @@
-package com.oscar.arabfati.data.room
+package com.oscar.arabfati.data.dao
 
 import androidx.room.*
 import com.oscar.arabfati.data.model.CategoryModel
-import com.oscar.arabfati.data.model.WordModel
 
 @Dao
 interface CategoriesDao {
